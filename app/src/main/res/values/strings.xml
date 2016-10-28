@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScreenGrabbingDetection</string>
+    <string name="display_id">Display ID</string>
+    <string name="display_state">Display State</string>
+    <string name="display_mode">Display Mode</string>
+    <string name="state_not_supported">State Not Supported</string>
+    <string name="mode_not_supported">Mode Not Supported</string>
+</resources>
